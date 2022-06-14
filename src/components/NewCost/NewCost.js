@@ -7,6 +7,7 @@ function NewCost(props) {
       ...inputCostData,
       id: Math.random().toString(),
     };
+
     props.onAddCost(costData);
   };
 
