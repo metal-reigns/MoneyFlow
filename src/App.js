@@ -11,15 +11,27 @@ const INITIAL_COSTS = [
   },
   {
     id: "c2",
-    date: new Date(2022, 5, 7),
+    date: new Date(2022, 6, 7),
     description: "Lenovo Legion 7",
     amount: 1399.99,
   },
   {
     id: "c3",
-    date: new Date(2022, 5, 8),
+    date: new Date(2019, 5, 8),
     description: "AKG K140",
     amount: 249.99,
+  },
+  {
+    id: "c4",
+    date: new Date(2019, 4, 10),
+    description: "Google Pixel 6",
+    amount: 649.99,
+  },
+  {
+    id: "c5",
+    date: new Date(2020, 3, 8),
+    description: "Monitor LG OLED 32",
+    amount: 1000,
   },
 ];
 
